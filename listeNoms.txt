@@ -1,6 +1,6 @@
 Jacques Dupond
-Jean DURAND
-John Doe
+Jean Durand
+John DOE
 Jane Doe
 Pierre-Julien VILLOUD
 Clément Tartempion
